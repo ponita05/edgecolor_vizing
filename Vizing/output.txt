@@ -1,0 +1,15 @@
+Edge 1: (0, 1), Color: 1
+Edge 2: (0, 4), Color: 2
+Edge 3: (0, 4), Color: 3
+Edge 4: (0, 5), Color: 4
+Edge 5: (0, 5), Color: 5
+Edge 6: (0, 5), Color: 6
+Edge 7: (1, 5), Color: 2
+Edge 8: (1, 2), Color: 3
+Edge 9: (2, 5), Color: 1
+Edge 10: (2, 5), Color: 7
+Edge 11: (2, 3), Color: 2
+Edge 12: (3, 5), Color: 3
+Edge 13: (3, 5), Color: 8
+Edge 14: (3, 4), Color: 1
+Edge 15: (4, 5), Color: 9
